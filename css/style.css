@@ -16,11 +16,11 @@ a:visited, a:active, a:hover, a {
 }
 
 a:hover {
-  color: #000;
+  color: #4285f4;
 }
 
 .container {
-  max-width: 950px;
+  max-width: 1000px;
 }
 
 .odd-section {
