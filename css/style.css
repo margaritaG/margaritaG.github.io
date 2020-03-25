@@ -27,6 +27,11 @@ a:hover {
   background-color: rgb(250, 250, 250);
 }
 
+.thumbnail {
+  position: relative;
+  margin: 0 auto;
+}
+
 .thumbnail img {
   position: absolute;
   left: 0;
